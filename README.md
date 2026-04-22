@@ -1,5 +1,4 @@
 [README.md](https://github.com/user-attachments/files/26988473/README.md)
-## Hi there 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,0d1117,100,0d2a2a&height=2&section=header"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,ffffff,100,e0f7f4&height=2&section=header"/>
@@ -93,5 +92,3 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0d2a2a,100,0d1117&height=2"/>
 </picture>
 
-
--->
