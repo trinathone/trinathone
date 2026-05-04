@@ -80,6 +80,13 @@
 
 ## `~/output`
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/trinathone?style=flat-square&label=followers&color=2dd4bf&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/stars/trinathone/humanize-mail?style=flat-square&label=humanize-mail%20stars&color=2dd4bf&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/commit-activity/t/trinathone/humanize-mail?style=flat-square&label=total%20commits&color=2dd4bf&labelColor=0d1117&logo=github"/>
+  <img src="https://img.shields.io/github/issues-closed/trinathone/humanize-mail?style=flat-square&label=issues%20closed&color=2dd4bf&labelColor=0d1117&logo=github"/>
+</p>
+
 <table>
   <tr>
     <td align="center" width="50%">
