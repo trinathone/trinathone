@@ -139,10 +139,6 @@
   <code>From raw data to deployed AI — I own the full pipeline.</code>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trinathone&style=flat-square&color=2dd4bf&label=profile+views&labelColor=0d1117"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,0d2a2a,100,0d1117&height=2&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,e0f7f4,100,ffffff&height=2&section=footer"/>
