@@ -83,15 +83,18 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=trinathone&show_icons=true&theme=dark&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=94a3b8&border_color=1e3a3a&hide_border=false&count_private=true&include_all_commits=true" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trinathone&theme=github_dark" width="100%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=trinathone&theme=dark&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=94a3b8&border=1e3a3a" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinathone&layout=compact&theme=dark&bg_color=0d1117&title_color=2dd4bf&text_color=94a3b8&border_color=1e3a3a&hide_border=false&langs_count=8" width="60%"/>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trinathone&theme=github_dark" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trinathone&theme=github_dark&utcOffset=5.5" width="100%"/>
     </td>
   </tr>
 </table>
