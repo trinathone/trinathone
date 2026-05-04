@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26988473/README.md)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,0d1117,100,0d2a2a&height=2&section=header"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,ffffff,100,e0f7f4&height=2&section=header"/>
@@ -6,13 +5,26 @@
 </picture>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  > whoami                                                    ║
-║                                                              ║
-║  Neo — builder at the intersection of data, systems & AI.   ║
-║  I don't prototype. I ship.                                  ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║  > whoami                                                            ║
+║                                                                      ║
+║  Neo — builder at the intersection of data, systems & AI.            ║
+║  I don't prototype. I ship.                                          ║
+║                                                                      ║
+║  > ls ./interests                                                    ║
+║  ai-products  data-pipelines  dev-tools  shipping-things-that-work   ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+<br/>
+
+## `~/now`
+
+> What I'm actively building
+
+- **[HumanizeMail](https://sincerely-app.vercel.app)** — AI email rewriter that strips the robot out of your drafts. Multi-provider fallback chain (Groq → OpenRouter → Gemini). Live.
+- Exploring multi-channel AI agent architectures
+- Deepening MLOps + LLMOps on production systems
 
 <br/>
 
@@ -36,6 +48,36 @@
 
 <br/>
 
+## `~/projects`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://sincerely-app.vercel.app">HumanizeMail</a>
+        &nbsp;<a href="https://sincerely-app.vercel.app"><img src="https://img.shields.io/badge/live-2dd4bf?style=flat-square&logo=vercel&logoColor=black" /></a>
+      </h3>
+      <p>Rewrites AI-flavored emails to sound human. Tone presets, strength + length sliders, diff highlighting, local history.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=2dd4bf"/>
+        <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=2dd4bf"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More shipping soon</h3>
+      <p>Building in public. Watch this space.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/status-building-2dd4bf?style=flat-square&labelColor=0d1117"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## `~/output`
 
 <table>
@@ -53,6 +95,14 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+## `~/trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trinathone&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</p>
 
 <br/>
 
@@ -86,9 +136,12 @@
   <code>From raw data to deployed AI — I own the full pipeline.</code>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trinathone&style=flat-square&color=2dd4bf&label=profile+views&labelColor=0d1117"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,0d2a2a,100,0d1117&height=2&section=footer"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0,e0f7f4,100,ffffff&height=2&section=footer"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0d2a2a,100,0d1117&height=2"/>
 </picture>
-
