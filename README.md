@@ -8,8 +8,6 @@ Currently:
 - building **FleetMind** — multi-robot fault recovery using NIM + LangGraph
 - orchestrating agents that do actual work (not demos)
 
-Background: connected vehicle telemetry @ BMW India → enterprise AI @ Infosys → MS Data Analytics @ Clark → building in the US on STEM OPT.
-
 I found a critical data exposure bug in a widely-used SaaS platform in 2026. Responsible disclosure. Patch deployed. Thousands of users protected. I don't talk about it much.
 
 Python. Multi-agent systems. RAG. MLOps. Security research. Full pipeline — from raw data to deployed AI.
