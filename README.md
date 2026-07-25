@@ -13,7 +13,6 @@ I build AI systems that go to production. I also break them before the bad guys 
 | [AgentLeak](https://github.com/trinathone/agentleak) | LLM token/cost leak detector | [▶](https://agentleak.vercel.app) |
 | [token-lens](https://github.com/trinathone/token-lens) | API cost breakdown across 15 models | [▶](https://token-lens-three.vercel.app) |
 | [PromptGrid](https://github.com/trinathone/promptgrid) | 4-model parallel comparison | [▶](https://promptgrid-ashy.vercel.app) |
-| [GhostGrad](https://github.com/trinathone/ghostgrad) | Latent fine-tune reactivation analyzer | soon |
 | [SilentRegression](https://github.com/trinathone/silent-regression) | Catch regressions LLM evals miss | soon |
 
 **Also found** a critical data exposure bug in a widely-used SaaS platform (responsible disclosure). Reverse-engineered a Chrome extension used by 10k+ job seekers.
