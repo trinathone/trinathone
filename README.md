@@ -1,17 +1,27 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
+</div>
+
 ### hey, I'm Neo (Trinath)
 
 I build AI systems that go to production. I also break them before the bad guys do.
 
-Currently:
-- building **[rezloft](https://github.com/trinathone/rezloft)** — job application engine that scrapes, scores, and auto-applies
-- building **CareerGod** — Chrome ext that gives you real resume match % against any JD, zero credits
-- building **FleetMind** — multi-robot fault recovery using NIM + LangGraph
-- orchestrating agents that do actual work (not demos)
+**Currently building:**
 
-I found a critical data exposure bug in a widely-used SaaS platform in 2026. Responsible disclosure. Patch deployed. Thousands of users protected. I don't talk about it much.
+| Tool | What it does | Live |
+|------|-------------|------|
+| [AgentLeak](https://github.com/trinathone/agentleak) | LLM token/cost leak detector | [▶](https://agentleak.vercel.app) |
+| [token-lens](https://github.com/trinathone/token-lens) | API cost breakdown across 15 models | [▶](https://token-lens-three.vercel.app) |
+| [PromptGrid](https://github.com/trinathone/promptgrid) | 4-model parallel comparison | [▶](https://promptgrid-ashy.vercel.app) |
+| [GhostGrad](https://github.com/trinathone/ghostgrad) | Latent fine-tune reactivation analyzer | soon |
+| [SilentRegression](https://github.com/trinathone/silent-regression) | Catch regressions LLM evals miss | soon |
 
-Python. Multi-agent systems. RAG. MLOps. Security research. Full pipeline — from raw data to deployed AI.
+**Also found** a critical data exposure bug in a widely-used SaaS platform (responsible disclosure). Reverse-engineered a Chrome extension used by 10k+ job seekers.
 
----
+`AI/ML · Python · Security Research`
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trinathone&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=001a0d&border_color=0d1117&hide_border=true&radius=4)](https://github.com/trinathone)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=trinathone&theme=dark&hide_border=true&background=0D1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)](https://git.io/streak-stats)
+
+</div>
