@@ -25,6 +25,10 @@ I build AI systems that go to production. I also break them before the bad guys 
 
 <div align="center">
 
+<img src="https://grs-lovat.vercel.app/api?username=trinathone&show_icons=true&hide_border=true&bg_color=0A101F&title_color=A78BFA&icon_color=10B981&text_color=F8FAFC" alt="GitHub Stats" />
+
+<img src="https://grs-lovat.vercel.app/api/top-langs/?username=trinathone&layout=compact&hide_border=true&bg_color=0A101F&title_color=A78BFA&text_color=F8FAFC" alt="Top Languages" />
+
 <img width="100%" src="https://streak-stats.demolab.com?user=trinathone&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="GitHub Streak" />
 
 </div>
