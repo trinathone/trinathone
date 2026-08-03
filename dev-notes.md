@@ -13,3 +13,6 @@ Reviewing LangGraph agent patterns for FleetMind.
 
 ## 2026-08-03
 Reading up on MLflow experiment lifecycle management.
+
+## 2026-08-03
+Testing Bedrock latency across regions.
