@@ -4,3 +4,5 @@
 - [2026-08-03] Auto-generate weekly GitHub activity reports.
 
 - [2026-08-03] Semantic diff tool for comparing LLM checkpoint outputs.
+
+- [2026-08-03] Real-time GPU utilization dashboard for inference clusters.
