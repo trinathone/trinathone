@@ -25,3 +25,6 @@ Profiling vLLM throughput — async batching looks promising.
 
 ## 2026-08-03
 Reading up on MLflow experiment lifecycle management.
+
+## 2026-08-03
+Setting up reproducible ML experiment tracking.
