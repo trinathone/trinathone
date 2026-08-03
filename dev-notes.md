@@ -19,3 +19,6 @@ Testing Bedrock latency across regions.
 
 ## 2026-08-03
 Exploring trufflehog secret scanning integration.
+
+## 2026-08-03
+Profiling vLLM throughput — async batching looks promising.
