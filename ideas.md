@@ -16,3 +16,5 @@
 - [2026-08-03] Batch PDF analyzer for research paper clustering.
 
 - [2026-08-03] Batch PDF analyzer for research paper clustering.
+
+- [2026-08-03] Auto-resume tailoring pipeline triggered by job RSS feed.
