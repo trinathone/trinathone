@@ -22,3 +22,6 @@ Exploring trufflehog secret scanning integration.
 
 ## 2026-08-03
 Profiling vLLM throughput — async batching looks promising.
+
+## 2026-08-03
+Reading up on MLflow experiment lifecycle management.
