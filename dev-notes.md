@@ -16,3 +16,6 @@ Reading up on MLflow experiment lifecycle management.
 
 ## 2026-08-03
 Testing Bedrock latency across regions.
+
+## 2026-08-03
+Exploring trufflehog secret scanning integration.
