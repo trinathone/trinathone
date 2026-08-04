@@ -64,3 +64,6 @@ Deep dive into RAG hybrid retrieval strategies.
 
 ## 2026-08-04
 Studying attention scaling in recent transformer papers.
+
+## 2026-08-04
+Profiling vLLM throughput — async batching looks promising.
