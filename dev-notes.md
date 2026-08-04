@@ -31,3 +31,6 @@ Setting up reproducible ML experiment tracking.
 
 ## 2026-08-03
 Setting up reproducible ML experiment tracking.
+
+## 2026-08-04
+Exploring trufflehog secret scanning integration.
