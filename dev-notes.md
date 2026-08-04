@@ -43,3 +43,6 @@ Setting up reproducible ML experiment tracking.
 
 ## 2026-08-04
 Working on NIM inference pipeline optimization.
+
+## 2026-08-04
+Reading up on MLflow experiment lifecycle management.
