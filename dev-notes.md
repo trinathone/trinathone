@@ -58,3 +58,6 @@ Exploring trufflehog secret scanning integration.
 
 ## 2026-08-04
 Exploring trufflehog secret scanning integration.
+
+## 2026-08-04
+Deep dive into RAG hybrid retrieval strategies.
