@@ -32,3 +32,5 @@
 - [2026-08-04] Privacy-preserving federated fine-tuning framework.
 
 - [2026-08-04] Privacy-preserving federated fine-tuning framework.
+
+- [2026-08-04] Auto-resume tailoring pipeline triggered by job RSS feed.
