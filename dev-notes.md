@@ -61,3 +61,6 @@ Exploring trufflehog secret scanning integration.
 
 ## 2026-08-04
 Deep dive into RAG hybrid retrieval strategies.
+
+## 2026-08-04
+Studying attention scaling in recent transformer papers.
