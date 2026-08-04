@@ -22,3 +22,5 @@
 - [2026-08-03] Real-time GPU utilization dashboard for inference clusters.
 
 - [2026-08-03] Auto-resume tailoring pipeline triggered by job RSS feed.
+
+- [2026-08-04] Semantic diff tool for comparing LLM checkpoint outputs.
