@@ -49,3 +49,6 @@ Reading up on MLflow experiment lifecycle management.
 
 ## 2026-08-04
 Exploring trufflehog secret scanning integration.
+
+## 2026-08-04
+Working on NIM inference pipeline optimization.
