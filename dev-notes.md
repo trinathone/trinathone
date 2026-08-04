@@ -70,3 +70,6 @@ Profiling vLLM throughput — async batching looks promising.
 
 ## 2026-08-04
 Setting up reproducible ML experiment tracking.
+
+## 2026-08-04
+Profiling vLLM throughput — async batching looks promising.
