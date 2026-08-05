@@ -64,3 +64,5 @@
 - [2026-08-05] Auto-resume tailoring pipeline triggered by job RSS feed.
 
 - [2026-08-05] Semantic diff tool for comparing LLM checkpoint outputs.
+
+- [2026-08-05] Semantic diff tool for comparing LLM checkpoint outputs.
