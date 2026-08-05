@@ -100,3 +100,6 @@ Benchmarking embedding models for semantic search.
 
 ## 2026-08-05
 Reviewing LangGraph agent patterns for FleetMind.
+
+## 2026-08-05
+Exploring trufflehog secret scanning integration.
