@@ -85,3 +85,6 @@ Benchmarking embedding models for semantic search.
 
 ## 2026-08-05
 Reading up on MLflow experiment lifecycle management.
+
+## 2026-08-05
+Setting up reproducible ML experiment tracking.
