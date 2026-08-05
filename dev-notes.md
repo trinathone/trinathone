@@ -76,3 +76,6 @@ Profiling vLLM throughput — async batching looks promising.
 
 ## 2026-08-04
 Exploring trufflehog secret scanning integration.
+
+## 2026-08-05
+Setting up reproducible ML experiment tracking.
