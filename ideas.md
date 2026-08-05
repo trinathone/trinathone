@@ -60,3 +60,5 @@
 - [2026-08-05] Real-time GPU utilization dashboard for inference clusters.
 
 - [2026-08-05] Privacy-preserving federated fine-tuning framework.
+
+- [2026-08-05] Auto-resume tailoring pipeline triggered by job RSS feed.
