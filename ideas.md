@@ -58,3 +58,5 @@
 - [2026-08-05] Batch PDF analyzer for research paper clustering.
 
 - [2026-08-05] Real-time GPU utilization dashboard for inference clusters.
+
+- [2026-08-05] Privacy-preserving federated fine-tuning framework.
