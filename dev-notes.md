@@ -79,3 +79,6 @@ Exploring trufflehog secret scanning integration.
 
 ## 2026-08-05
 Setting up reproducible ML experiment tracking.
+
+## 2026-08-05
+Benchmarking embedding models for semantic search.
