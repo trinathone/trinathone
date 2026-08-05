@@ -97,3 +97,6 @@ Setting up reproducible ML experiment tracking.
 
 ## 2026-08-05
 Benchmarking embedding models for semantic search.
+
+## 2026-08-05
+Reviewing LangGraph agent patterns for FleetMind.
