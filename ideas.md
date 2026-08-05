@@ -44,3 +44,5 @@
 - [2026-08-04] Semantic diff tool for comparing LLM checkpoint outputs.
 
 - [2026-08-04] Semantic diff tool for comparing LLM checkpoint outputs.
+
+- [2026-08-05] Batch PDF analyzer for research paper clustering.
