@@ -106,3 +106,6 @@ Exploring trufflehog secret scanning integration.
 
 ## 2026-08-06
 Setting up reproducible ML experiment tracking.
+
+## 2026-08-06
+Deep dive into RAG hybrid retrieval strategies.
