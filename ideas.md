@@ -68,3 +68,5 @@
 - [2026-08-05] Semantic diff tool for comparing LLM checkpoint outputs.
 
 - [2026-08-06] Batch PDF analyzer for research paper clustering.
+
+- [2026-08-06] Privacy-preserving federated fine-tuning framework.
