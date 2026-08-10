@@ -1,6 +1,6 @@
 {
   "model": "claude-sonnet-4-6",
-  "temperature": 0.6,
-  "max_tokens": 2048,
-  "top_p": 0.93
+  "temperature": 0.45,
+  "max_tokens": 4096,
+  "top_p": 0.9
 }
