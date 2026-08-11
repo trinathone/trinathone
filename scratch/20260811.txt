@@ -1,0 +1,4 @@
+# ideas 2026-08-11
+- semantic diff for llm checkpoints
+- gpu util dashboard for inference clusters
+- auto-resume tailor from job RSS
