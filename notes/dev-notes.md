@@ -7,3 +7,6 @@ Working on NIM inference pipeline optimization.
 
 ## 2026-08-09
 Deep dive into RAG hybrid retrieval strategies.
+
+## 2026-08-11
+Profiling vLLM throughput — async batching looks promising.
