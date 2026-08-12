@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# latency benchmark — 2026-08-09
+# latency benchmark — 2026-08-12
 import time, statistics
 
 def bench(fn, n=50):
