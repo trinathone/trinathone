@@ -1,0 +1,4 @@
+# scratch 2026-08-12
+- profile vllm async batching
+- check bedrock latency by region
+- review langchain LCEL docs
